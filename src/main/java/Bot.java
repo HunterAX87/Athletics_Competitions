@@ -42,7 +42,7 @@ public class Bot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "6132274915:AAFESfOm0Lab_6fTqb1LTMzcJAjPFfLpnYg";
+        return "****";
     }
 
     private enum options {
